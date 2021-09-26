@@ -6,9 +6,10 @@
 - 😄 Tecnólogo em Sistemas para Internet - FATEC
 - 😍 Aluno do curso <a href="https://b7web.com.br/">FullStack da B7Web</a>
 
-<div>
+<div align="center">
   <a href="https://github.com/ViniciusAlexandrinoLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlexandrinoLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAlexandrinoLima&show_icons=true&theme=cobalt&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAlexandrinoLima&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -19,7 +20,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Git" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Mysql" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   
   ##
