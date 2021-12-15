@@ -1,8 +1,7 @@
 ### Olá, eu sou Vinicius! 👋✔
 
 
-- 🔭 Estou procurando minha primeira oportunidade na area!
-- 🌱 Estudando Javascript/Typescript
+- 🔭 Estou procurando minha primeira oportunidade!
 - 😄 Tecnólogo em Sistemas para Internet - FATEC
 - 😍 Aluno do curso <a href="https://b7web.com.br/">FullStack da B7Web</a>
 
