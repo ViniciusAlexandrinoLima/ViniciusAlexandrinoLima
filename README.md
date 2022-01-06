@@ -3,7 +3,7 @@
 
 - 🔭 Estou procurando minha primeira oportunidade!
 - 😄 Tecnólogo em Sistemas para Internet - FATEC
-- 😍 Aluno do curso <a href="https://b7web.com.br/">FullStack da B7Web</a>
+- 😍 Estudando, sempre!
 
 <div align="center">
   <a href="https://github.com/ViniciusAlexandrinoLima">
