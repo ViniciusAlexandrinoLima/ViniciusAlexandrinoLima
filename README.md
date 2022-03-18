@@ -3,7 +3,6 @@
 
 - 🔭 Estou procurando minha primeira oportunidade!
 - 😄 Tecnólogo em Sistemas para Internet - FATEC
-- 😍 Curioso
 
 <div align="center">
   <a href="https://github.com/ViniciusAlexandrinoLima">
